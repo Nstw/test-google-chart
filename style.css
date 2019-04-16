@@ -1,6 +1,12 @@
+.title {
+  text-align: center;
+  margin-top: 20px;
+}
+
 .box-chart {
   width: 800px;
   height: 400px;
+  margin-left: 100px;
   float: left;
 }
 
@@ -8,6 +14,7 @@
   width: 100;
   height: 100;
   display: inline-block;
+  position: relative;
 }
 
 .dropdown {
